@@ -1,0 +1,5 @@
+com\catalog\SwaggerConfig.class
+com\catalog\Application.class
+com\catalog\ItemEntity.class
+com\catalog\ItemRepository.class
+com\catalog\ItemsController.class
